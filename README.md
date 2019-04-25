@@ -1,3 +1,2 @@
 # GitHub-test
-
-In th second branch,i commited again!
+First time using GitHub,just a testing.
